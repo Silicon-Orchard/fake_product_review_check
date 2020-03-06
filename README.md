@@ -54,6 +54,6 @@ Developed by:
 
 Nafiz Sadman
 
-Kishor Datta Gupta
+Kishor Datta Gupta github.com/kishordgupta/
 
 Ariful Haque
