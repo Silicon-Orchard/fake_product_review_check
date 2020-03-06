@@ -52,7 +52,7 @@ Consumers now check reviews and recommendations before consuming any services or
 
 Developed by:
 
-Nafiz Sadman
+Nafiz Sadman https://github.com/Nafiz95
 
 Kishor Datta Gupta github.com/kishordgupta/
 
