@@ -54,6 +54,8 @@ Developed by:
 
 Nafiz Sadman https://github.com/Nafiz95
 
-Kishor Datta Gupta github.com/kishordgupta/
+Kishor Datta Gupta github.com/kishordgupta/  kdgupta87 @gmail.com
 
-Ariful Haque
+Sajib Sen sajibsen.eee@gmail.com 
+
+Ariful Haque Ariful@siliconorchard.com
