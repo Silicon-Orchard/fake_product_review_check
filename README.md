@@ -1,5 +1,5 @@
 # Reviewer Verificiation System 
-#live demo www.isreviewfake.con
+#live demo www.isreviewfake.com
 # About 
 People review restaurants, contractors, sites.. almost everything. Reviews make great impact in decision making process. Some people take advantage of it by posting fake, fabricated reviews to upvote or downvote a particular target. We are trying to approach this problem by classifiying such reviews.
 # Project 
