@@ -1,9 +1,9 @@
-# Reviewer Verificiation System 
+# Reviewer Verification System 
 #live demo www.isreviewfake.com
 # About 
-People review restaurants, contractors, sites.. almost everything. Reviews make great impact in decision making process. Some people take advantage of it by posting fake, fabricated reviews to upvote or downvote a particular target. We are trying to approach this problem by classifiying such reviews.
+People review restaurants, contractors, sites.. almost everything. Reviews make a great impact in decision-making process. Some people take advantage of it by posting fake, fabricated reviews to upvote or downvote a particular target. We are trying to approach this problem by classifying such reviews.
 # Project 
-By using Vader Sentiment Analysis and Jacccard Similarity, a reviewer verification system is created to allocate probabilites of a reviewer being authentic,fake, or a bot. For an instance, if probability of a reviewer being fake is above 0.90, it can be safe to assume and avoid such reviewes from these reviewers. For this project, we dig-in amazon (www.amazon.com), yelp (www.yelp.com), facebook and google to apply our 'intelligent system' to classify reviews.
+By using Vader Sentiment Analysis and Jaccard Similarity, a reviewer verification system is created to allocate probabilities of a reviewer being authentic, fake, or a bot. For instance, if the probability of a reviewer being fake is above 0.90, it can be safe to assume and avoid such reviews from these reviewers. For this project, we dig-in Amazon (www.amazon.com), Yelp (www.yelp.com), Facebook, and Google to apply our 'intelligent system' to classify reviews.
 # Tech 
 + Python 3 
 + NLTK 
@@ -19,7 +19,7 @@ By using Vader Sentiment Analysis and Jacccard Similarity, a reviewer verificati
 - Visit "isreviewfake.com".
 - In the input form, type in User ID, or the URL that links to User Profile.
 - Click Verify*.
-* Loading time depends on processing. Please give it few seconds.
+* Loading time depends on processing. Please give it a few seconds.
 ### Offline ###
 - `git clone {project url}`
 - Install all the dependencies mentioned above from requirements.txt using `pip install -r requirements.txt`.
@@ -56,6 +56,7 @@ Nafiz Sadman https://github.com/Nafiz95
 
 Kishor Datta Gupta github.com/kishordgupta/  kdgupta87 @gmail.com
 
-Sajib Sen sajibsen.eee@gmail.com 
+Sajib Sen https://github.com/Sen2k9
+sajibsen.eee@gmail.com, sajibsen.cs@gmail.com
 
 Ariful Haque Ariful@siliconorchard.com
