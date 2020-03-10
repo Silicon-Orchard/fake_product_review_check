@@ -3,7 +3,7 @@
 # About 
 People review restaurants, contractors, sites.. almost everything. Reviews make a great impact in decision-making process. Some people take advantage of it by posting fake, fabricated reviews to upvote or downvote a particular target. We are trying to approach this problem by classifying such reviews.
 # Project 
-By using Vader Sentiment Analysis and Jaccard Similarity, a reviewer verification system is created to allocate probabilities of a reviewer being authentic, fake, or a bot. For instance, if the probability of a reviewer being fake is above 0.90, it can be safe to assume and avoid such reviews from these reviewers. For this project, we dig-in Amazon (www.amazon.com), Yelp (www.yelp.com), Facebook, and Google to apply our 'intelligent system' to classify reviews.
+By using VADER (Valence Aware Dictionary and sEntiment Reasoner) Sentiment Analysis and Jaccard Similarity, a reviewer verification system is created to allocate probabilities of a reviewer being authentic, fake, or a bot. For instance, if the probability of a reviewer being fake is above 0.90, it can be safe to assume and avoid such reviews from these reviewers. For this project, we dig-in Amazon (www.amazon.com), Yelp (www.yelp.com), Facebook, and Google to apply our 'intelligent system' to classify reviews.
 # Tech 
 + Python 3 
 + NLTK 
