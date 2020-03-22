@@ -52,9 +52,9 @@ Consumers now check reviews and recommendations before consuming any services or
 
 Developed by:
 
-Nafiz Sadman https://github.com/Nafiz95
+Nafiz Sadman https://github.com/Nafiz95 
 
-Kishor Datta Gupta github.com/kishordgupta/  kdgupta87 @gmail.com
+Kishor Datta Gupta https://github.com/kishordgupta/  kdgupta87 @gmail.com
 
 Sajib Sen https://github.com/Sen2k9
 sajibsen.eee@gmail.com, sajibsen.cs@gmail.com
