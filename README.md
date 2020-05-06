@@ -3,6 +3,8 @@
 
 #paper: https://dl.acm.org/doi/10.1145/3387263.3387272
 
+#presentation: https://www.slideshare.net/KishorDattaGupta/detect-review-manipulation-by-leveraging-reviewer-historical-stylometrics-in-amazon
+
 cite us
 @inproceedings{10.1145/3387263.3387272,
 author = {Sadman, Nafiz and Gupta, Kishor Datta and Haque, Ariful and Poudyal, Subash and Sen, Sajib},
