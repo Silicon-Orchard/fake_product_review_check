@@ -1,5 +1,26 @@
 # Reviewer Verification System 
 #live demo www.isreviewfake.com
+
+cite us
+@inproceedings{10.1145/3387263.3387272,
+author = {Sadman, Nafiz and Gupta, Kishor Datta and Haque, Ariful and Poudyal, Subash and Sen, Sajib},
+title = {Detect Review Manipulation by Leveraging Reviewer Historical Stylometrics in Amazon, Yelp, Facebook and Google Reviews},
+year = {2020},
+isbn = {9781450377355},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3387263.3387272},
+doi = {10.1145/3387263.3387272},
+booktitle = {Proceedings of the 2020 The 6th International Conference on E-Business and Applications},
+pages = {42–47},
+numpages = {6},
+keywords = {Fake review detection, Stylometry, HCI, Sentient analysis, Jaccard similarity, Natural language processing, Review manipulation},
+location = {Kuala Lumpur, Malaysia},
+series = {ICEBA 2020}
+}
+  
+
+
 # About 
 People review restaurants, contractors, sites.. almost everything. Reviews make a great impact in decision-making process. Some people take advantage of it by posting fake, fabricated reviews to upvote or downvote a particular target. We are trying to approach this problem by classifying such reviews.
 # Project 
