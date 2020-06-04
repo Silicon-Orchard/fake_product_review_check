@@ -6,7 +6,8 @@
 #presentation: https://www.slideshare.net/KishorDattaGupta/detect-review-manipulation-by-leveraging-reviewer-historical-stylometrics-in-amazon
 
 cite us
-@inproceedings{Sadman2020detect,
+
+>@inproceedings{Sadman2020detect,
 author = {Sadman, Nafiz and Gupta, Kishor Datta and Haque, Ariful and Poudyal, Subash and Sen, Sajib},
 title = {Detect Review Manipulation by Leveraging Reviewer Historical Stylometrics in Amazon, Yelp, Facebook and Google Reviews},
 year = {2020},
