@@ -111,7 +111,7 @@ requests==2.22.0
 requests-unixsocket==0.1.5
 scikit-learn==0.21.3
 scipy==1.3.1
-Scrapy==1.7.3
+Scrapy==1.8.1
 scrapy-proxies==0.4
 scrapy-proxy-pool==0.1.6
 scrapy-user-agents==0.1.1
