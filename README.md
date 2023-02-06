@@ -85,4 +85,4 @@ Kishor Datta Gupta https://github.com/kishordgupta/  kdgupta87 @gmail.com
 Sajib Sen https://github.com/Sen2k9
 sajibsen.eee@gmail.com, sajibsen.cs@gmail.com
 
-Ariful Haque Ariful@siliconorchard.com
+Ariful Haque https://github.com/dewflowersp ariful@siliconorchard.com dewflowersp@gmail.com
